@@ -219,6 +219,9 @@ For questions, issues, or support:
 - Join our community discussions
 - Check the documentation for troubleshooting guides
 
+## Contact
+For any questions, please reach out at [hphamhai432@gmail.com] or open an issue.
+
 ---
 
 Built with ❤️ on the Internet Computer Protocol
